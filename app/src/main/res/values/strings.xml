@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">KotlinLogin</string>
-    <string name="useremail">Useremail</string>
+    <string name="user_id">Useremail</string>
     <string name="password">Password</string>
     <string name="button">Login</string>
+    <string name="flipkart">Flipkart</string>
+    <string name="submit">Submit</string>
+    <string name="amazon">Amazon</string>
+    <string name="google">Google</string>
+    <string name="toi">ToI</string>
 </resources>
